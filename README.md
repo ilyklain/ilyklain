@@ -7,7 +7,7 @@
 
 - I'm Currently working on [SoftMedic](app.softmedic.co)
 
-- I'm studying Software Development Engineering **Learning Astro, Objetive-C and PHP**
+- I'm studying Software Development Engineering **Learning Astro, Objetive-C, PHP and Java**
 
 - My hobby is Coding and play Basketball 🏀 [StrayPvP](straypvp.us)
 
@@ -17,7 +17,7 @@
 
 - I usually write cool things in [discord.gg/straydevelopment](discord.gg/straydevelopment)
 
-- I'm an expert in **React - Vue - React Native - C# - C++ - C - TypeScript - Python**
+- I'm an expert in **React - Vue - React Native - C# - C++ - C - TypeScript - Python - JavaScript**
 
 - How I can reach me? **strawydev@gmail.com - ilyklain (on discord)**
 
