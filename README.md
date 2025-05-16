@@ -9,7 +9,7 @@
 
 - I'm studying Software Development Engineering **Learning Astro, Objetive-C and PHP**
 
-- My hobby is Coding and play Basketball 🏀 [Currently working on](straypvp.us)
+- My hobby is Coding and play Basketball 🏀 [StrayPvP](straypvp.us)
 
 - I'm currently working on [Lesoft Inc.](www.lesoftinc.net)
 
@@ -23,7 +23,7 @@
 
 - Know about all my experiences in [strawydev.vercel.app](strawydev.vercel.app)
 
-- I think that I'mma funny **#include <iostream> #include <cstdlib> #include <ctime> #include <thread> #include <chrono> using namespace std; int main() { srand(time(0)); cout << "Spinning the barrel...\n"; this_thread::sleep_for(chrono::seconds(1)); if (rand() % 6 == 0) { cout << "BANG! You lost.\n"; this_thread::sleep_for(chrono::milliseconds(800)); cout << "Deleting System32...\n"; this_thread::sleep_for(chrono::milliseconds(1500)); cout << "Just kidding. You're safe... for now.\n"; } else { cout << "Click. You survived.\n"; } return 0; }**
+- I think that I'mma funny
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
