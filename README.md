@@ -23,8 +23,7 @@
 
 - Know about all my experiences in [strawydev.vercel.app](strawydev.vercel.app)
 
-- I think that I'mma funny **#include <iostream> #include <cstdlib> #include <ctime> #include <thread> #include <chrono> using namespace std; int main() { srand(time(0)); cout << "Spinning the barrel...\n"; this_thread::sleep_for(chrono::seconds(1)); if (rand() % 6 == 0) { cout << "BANG! You lost.\n"; this_thread::sleep_for(chrono::milliseconds(800)); cout << "Deleting System32...\n"; this_thread::sleep_for(chrono::milliseconds(1500)); cout << "Just kidding. You're safe... for now.\n"; } else { cout << "Click. You survived.\n"; } return 0; }**
-
+- I think that I'mma funny
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/dev.to ilyklain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to ilyklain" height="30" width="40" /></a>
