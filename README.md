@@ -7,7 +7,7 @@
 
 - I'm Currently working on [SoftMedic](app.softmedic.co)
 
-- I'm studying Software Development Engineering **Learning Astro, Objetive-C, PHP and Java**
+- I'm studying Software Development Engineering **Learning Astro, Objetive-C, PHP, Java and .NET**
 
 - My hobby is Coding and play Basketball 🏀 [StrayPvP](straypvp.us)
 
