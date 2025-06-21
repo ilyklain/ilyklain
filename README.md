@@ -9,13 +9,11 @@
 
 - I'm studying Software Development Engineering **Learning Astro, Objetive-C, PHP, Java and .NET**
 
-- My hobby is Coding and play Basketball 🏀 [StrayPvP](straypvp.us)
+- My hobby is Coding and play Basketball 🏀
 
 - I'm currently working on [Lesoft Inc.](www.lesoftinc.net)
 
 - My projects and all skills are on [strawydev.vercel.app](strawydev.vercel.app)
-
-- I usually write cool things in [discord.gg/straydevelopment](discord.gg/straydevelopment)
 
 - I'm an expert in **React - Vue - React Native - C# - C++ - C - TypeScript - Python - JavaScript**
 
