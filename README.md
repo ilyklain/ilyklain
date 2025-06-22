@@ -17,7 +17,7 @@
 
 - I'm an expert in **React - Vue - React Native - C# - C++ - C - TypeScript - Python - JavaScript**
 
-- How I can reach me? **strawydev@gmail.com - ilyklain (on discord)**
+- Hire me? **strawydev@gmail.com - ilyklain (on discord)**
 
 - Know about all my experiences in [strawydev.vercel.app](strawydev.vercel.app)
 
