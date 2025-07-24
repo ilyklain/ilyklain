@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilyklain" alt="ilyklain" /></a> </p>
 
-- I'm Currently working on [SoftMedic](app.softmedic.co)
+- I'm Currently working https://app.softmedic.co
 
 - I'm studying Software Development Engineering **Learning Astro, Objetive-C, PHP, Java and .NET**
 
