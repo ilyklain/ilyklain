@@ -1,8 +1,6 @@
 <h1 align="center">StrawyDev Ilyklain</h1>
 <h3 align="center">Hello! I like coffee</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilyklain&label=Profile%20views&color=0e75b6&style=flat" alt="ilyklain" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilyklain" alt="ilyklain" /></a> </p>
 
 - I'm Currently working https://app.softmedic.co
