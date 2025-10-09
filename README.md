@@ -9,7 +9,7 @@
 
 - My hobby is Coding and play Basketball 🏀
 
-- I'm currently working Lesoft Inc.
+- I'm currently working in ??
 
 - My projects and all skills are on [strawydev.vercel.app](strawydev.vercel.app)
 
