@@ -1,9 +1,5 @@
-<h1 align="center">Gus</h1>
+<h1 align="center">Jaspe</h1>
 <h3 align="center">Hello! I like coffee</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilyklain" alt="ilyklain" /></a> </p>
-
-- I'm Currently working in ??
 
 - I'm studying Software Development Engineering **Learning Astro, Objetive-C, PHP, Java and .NET**
 
