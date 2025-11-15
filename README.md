@@ -1,7 +1,7 @@
 <h1 align="center">Jaspe</h1>
 <h3 align="center">Hello! I like coffee</h3>
 
-- I'm studying Software Development Engineering **Learning Astro, Objetive-C, PHP, Java and .NET**
+- I'm studying Software Development Engineering **Learning Astro, Kotlin, PHP, Java and .NET**
 
 - My hobby is Coding and play Basketball 🏀
 
