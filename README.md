@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ilyklain&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -80,4 +80,4 @@ Comfortable working on real production projects, both independently and in teams
 ## Contact
 
 - Email: **gustavoyaspe@gmail.com**
-- GitHub: https://github.com/USERNAME
+- GitHub: https://github.com/ilyklain
