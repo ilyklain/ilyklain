@@ -1,29 +1,32 @@
 <h1 align="center">Gustavo Yaspe</h1>
 
 <p align="center">
-  Web Developer • Frontend / Full Stack<br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=520&lines=Web+Developer;Frontend+%2F+Full+Stack;Modern+Web+Applications" />
+</p>
+
+<p align="center">
   Crafting modern, scalable, and user-focused web applications
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ilyklain&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/ilyklain?label=Followers&style=flat" />
-  <img src="https://img.shields.io/github/stars/ilyklain?label=Stars&style=flat" />
+  <img src="https://img.shields.io/github/followers/ilyklain?style=flat" />
+  <img src="https://img.shields.io/github/stars/ilyklain?style=flat" />
 </p>
 
 ---
 
 ## Overview
 
-Web Developer with experience in frontend and full stack development, focused on building clean, performant, and maintainable applications.  
-Strong emphasis on UI quality, responsive design, and modern development workflows.
+Web Developer with hands-on experience in frontend and full stack development, focused on building clean, performant, and maintainable web applications.
 
+Strong emphasis on UI quality, responsive design, and modern development workflows.  
 Comfortable working in real production environments, contributing through thoughtful architecture, performance optimizations, and user-centered design decisions.
 
 - Frontend-oriented with solid backend fundamentals  
 - Strong focus on UX, performance, and scalability  
 - Experience working on real-world production systems  
-- Continuous learner with a long-term engineering mindset  
+- Continuous learner with long-term engineering mindset  
 - English level: **B1+ (CEFR)**
 
 ---
@@ -41,22 +44,11 @@ Comfortable working in real production environments, contributing through though
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
 </p>
 
-- Responsive and mobile-first design
-- Component-driven architecture
-- Accessibility-aware UI development
-
----
-
 ### Backend
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript"/>
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge"/>
 </p>
-
-- API integration and data handling
-- Basic backend architecture and service communication
-
----
 
 ### Databases
 <p>
@@ -66,8 +58,6 @@ Comfortable working in real production environments, contributing through though
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
----
-
 ### Tools & Workflow
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -76,9 +66,40 @@ Comfortable working in real production environments, contributing through though
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
 </p>
 
-- Modern development workflows
-- Clean, maintainable codebases
-- Performance-conscious development
+---
+
+## Selected Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### NeoPad Code Editor
+Online, multilingual code editor with execution support and modern UI.
+
+- Frontend-focused architecture  
+- Secure code execution  
+- Multi-language support  
+- Clean UI with subtle animations  
+
+**Tech:** React, TypeScript, Tailwind, Python
+
+</td>
+<td width="50%">
+
+### Rack Ball
+Advanced multiplayer billiards project inspired by 8 Ball Pool.
+
+- Realistic physics  
+- Custom economy system  
+- Real-time multiplayer logic  
+- Modular architecture  
+
+**Tech:** Custom Engine, Networking, Databases
+
+</td>
+</tr>
+</table>
 
 ---
 
