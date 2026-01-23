@@ -1,7 +1,7 @@
 <h1 align="center">Gustavo Yaspe</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=520&lines=Web+Developer;Frontend+%2F+Full+Stack;Modern+Web+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=520&lines=Web+Developer;Frontend+%2F+Full+Stack;Building+Your+Dreams" />
 </p>
 
 <p align="center">
