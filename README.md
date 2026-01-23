@@ -74,28 +74,28 @@ Comfortable working in real production environments, contributing through though
 <tr>
 <td width="50%">
 
-### NeoPad Code Editor
-Online, multilingual code editor with execution support and modern UI.
+### Kraken AntiCheat
+An sophisticated website based on the most influent SaaS now
 
 - Frontend-focused architecture  
 - Secure code execution  
-- Multi-language support  
+- Backed  
 - Clean UI with subtle animations  
 
-**Tech:** React, TypeScript, Tailwind, Python
+**Tech:** React, TypeScript, Tailwind, Next.js
 
 </td>
 <td width="50%">
 
-### Rack Ball
-Advanced multiplayer billiards project inspired by 8 Ball Pool.
+### MixelNodes Website
+A Hosting page made with React
 
-- Realistic physics  
-- Custom economy system  
-- Real-time multiplayer logic  
-- Modular architecture  
+- Multiple Pages  
+- Connection with PHP 
+- Global Payments  
+- Better SEO  
 
-**Tech:** Custom Engine, Networking, Databases
+**Tech:** PHP, React, TypeScript, Nginx & Wings
 
 </td>
 </tr>
