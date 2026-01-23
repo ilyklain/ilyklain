@@ -2,24 +2,26 @@
 
 <p align="center">
   Web Developer • Frontend / Full Stack<br/>
-  Focused on modern, scalable and user-centered web applications
+  Building modern, scalable, and user-focused web applications
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ilyklain&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ilyklain&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-## About Me
+## About
 
-Web developer with hands-on experience in frontend and full stack development.  
-Strong focus on clean UI, responsive design, and modern web technologies.  
-Comfortable working on real production projects, both independently and in teams.
+Web developer with hands-on experience in frontend and full stack development, focused on building clean, maintainable, and performant web applications.  
+Experienced in real production environments, with a strong emphasis on UI quality, responsiveness, and modern development practices.
+
+Comfortable working independently or within teams, contributing not only through code but also through design decisions, performance improvements, and long-term maintainability.
 
 - Frontend-oriented with solid backend fundamentals  
-- Strong interest in UX and performance  
-- Continuous learner, always improving workflows and architecture  
+- Strong focus on UX, performance, and scalability  
+- Experience working on real-world production projects  
+- Continuous learner, always refining workflows and architecture  
 - English level: **B1+ (CEFR)**
 
 ---
@@ -35,17 +37,18 @@ Comfortable working on real production projects, both independently and in teams
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
 
-- Responsive Web Design
-- Modern component-based architecture
+- Responsive and mobile-first design
+- Component-based architecture
+- Accessibility-aware UI development
 
 ---
 
 ### Backend
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat)
 
-- Basic backend architecture
 - API integration and data handling
+- Basic backend architecture and service communication
 
 ---
 
@@ -64,15 +67,16 @@ Comfortable working on real production projects, both independently and in teams
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
 
 - Modern development workflows
-- Clean code and maintainability
+- Clean, maintainable code
+- Performance-conscious development
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=transparent" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=transparent" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ilyklain&show_icons=true&theme=transparent" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyklain&layout=compact&theme=transparent" height="160" />
 </p>
 
 ---
