@@ -42,6 +42,7 @@ Comfortable working in real production environments, contributing through though
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js"/>
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
+  <img src="https://img.shields.io/badge/Next.js-38B2AC?style=for-the-badge&logo=next.js"/>
 </p>
 
 ### Backend
