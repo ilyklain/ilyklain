@@ -1,123 +1,65 @@
-<h1 align="center">Gustavo Yaspe</h1>
+<h1 align="center">Hey 👋What's Up?</h1>
+<h2 align="center">Gustavo J.</h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=520&lines=Web+Developer;Frontend+%2F+Full+Stack;Building+Your+Dreams" />
-</p>
 
-<p align="center">
-  Crafting modern, scalable, and user-focused web applications
-</p>
+###
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ilyklain&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/ilyklain?style=flat" />
-  <img src="https://img.shields.io/github/stars/ilyklain?style=flat" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="60" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
+  
+</div>
 
----
+###
 
-## Overview
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
-Web Developer with hands-on experience in frontend and full stack development, focused on building clean, performant, and maintainable web applications.
+###
 
-Strong emphasis on UI quality, responsive design, and modern development workflows.  
-Comfortable working in real production environments, contributing through thoughtful architecture, performance optimizations, and user-centered design decisions.
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-- Frontend-oriented with solid backend fundamentals  
-- Strong focus on UX, performance, and scalability  
-- Experience working on real-world production systems  
-- Continuous learner with long-term engineering mindset  
-- English level: **B1+ (CEFR)**
+###
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
-## Tech Stack
-
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js"/>
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
-  <img src="https://img.shields.io/badge/Next.js-38B2AC?style=for-the-badge&logo=next.js"/>
-</p>
-
-### Backend
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript"/>
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge"/>
-</p>
-
-### Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-### Tools & Workflow
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
-</p>
-
----
-
-## Selected Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### Kraken AntiCheat
-An sophisticated website based on the most influent SaaS now
-
-- Frontend-focused architecture  
-- Secure code execution  
-- Backed  
-- Clean UI with subtle animations  
-
-**Tech:** React, TypeScript, Tailwind, Next.js
-
-</td>
-<td width="50%">
-
-### MixelNodes Website
-A Hosting page made with React
-
-- Multiple Pages  
-- Connection with PHP 
-- Global Payments  
-- Better SEO  
-
-**Tech:** PHP, React, TypeScript, Nginx & Wings
-
-</td>
-</tr>
-</table>
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilyklain&show_icons=true&hide_border=true&theme=transparent" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ilyklain&hide_border=true&theme=transparent" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyklain&layout=compact&hide_border=true&theme=transparent" height="150"/>
-</p>
-
----
-
-## Contact
-
-- Email: **gustavoyaspe@gmail.com**
-- GitHub: https://github.com/ilyklain
+###
